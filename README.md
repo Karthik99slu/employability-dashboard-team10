@@ -19,7 +19,7 @@
 ---
 
 ## Project Overview
-The **Employability Analytics Dashboard** is a Power BI-driven application created by Team 10 as part of the IS-5960 Master's Research Project at Saint Louis University. It empowers software engineers and career advisors with actionable insights derived from real-time job market data, including hiring trends, salary benchmarks, employer reputation, and demand for remote work.
+The **Employability Analytics Dashboard** is a Power BI-driven application created by our team, Team 10 as part of the IS-5960 Master's Research Project at Saint Louis University. It empowers software engineers and career advisors with actionable insights derived from real-time job market data, including hiring trends, salary benchmarks, employer reputation, and demand for remote work.
 
 ---
 
