@@ -86,19 +86,22 @@ All SQL checks confirmed clean and usable data for analysis.
 Our Power BI dashboard offers five primary views:
 
 1. **Executive Overview** – Summary KPIs with total listings, salary ranges, and remote work distribution  
-   ![Executive Overview](overview.jpeg)
+   ![Executive Overview](overview1.jpeg)
 
 2. **Job Demand Analysis** – In-demand titles by state with remote work breakdown  
-   ![Job Demand Analysis](jobdemand.jpeg)
+   ![Job Demand Analysis](jobdemand1.jpeg)
 
 3. **Salary Insights** – Max/min salary averages by job type and location  
-   ![Salary Insights](salinsights.jpeg)
+   ![Salary Insights](salinsights1.jpeg)
 
 4. **Employer Reputation** – Rating vs. review count, featured employer analysis  
-   ![Employer Reputation](employer.jpeg)
+   ![Employer Reputation](employer1.jpeg)
 
-5. **Forecast & Trends** – Role postings and salary trends over time  
-   ![Forecast and Trends](forecast.jpeg)
+5. **Career Path Insights** – Distribution of Remote and Onsite Jobs, Job Type and Work model analysis
+   ![Career Path Insights](career1.jpeg)
+
+6. **Forecast & Trends** – Role postings and salary trends over time  
+   ![Forecast and Trends](forecast1.jpeg)
 
 ---
 
